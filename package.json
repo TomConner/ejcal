@@ -1,0 +1,26 @@
+{
+  "name": "ejcal",
+  "version": "1.0.0",
+  "description": "Google Calendar app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomConner/ejcal.git"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "Tom Conner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TomConner/ejcal/issues"
+  },
+  "homepage": "https://github.com/TomConner/ejcal#readme",
+  "devDependencies": {
+    "electron": "^29.2.0"
+  }
+}
